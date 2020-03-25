@@ -24,8 +24,8 @@ char auth[] = "TVieXUefxACvwWjBMpiZw5doaP8Ns9gV";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "kluis";
-char pass[] = "485454085";
+char ssid[] = "";
+char pass[] = "";
 int led[]= {13,12,14,22};
 
 BlynkTimer timer;
